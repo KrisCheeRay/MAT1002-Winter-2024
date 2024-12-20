@@ -1,4 +1,7 @@
 # MAT-1002-2024-Winter
+*******************************
+In the memorial of Mario Huang.
+*******************************
 Acknowledgment
 These assignments are designed with efforts by the professors and TA in CUHK(SZ).
 
